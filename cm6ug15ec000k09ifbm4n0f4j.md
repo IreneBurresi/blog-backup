@@ -5,7 +5,7 @@ datePublished: Sat Nov 30 2024 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm6ug15ec000k09ifbm4n0f4j
 slug: book-review-analytical-skills-for-ai-and-data-science
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738913033154/fec5fde6-eb15-40e0-99ed-60cf150b7c51.png
-tags: ai, books, business, ai-business-model
+tags: ai, books, business, book-review, book-recommendations, ai-business-model
 
 ---
 
